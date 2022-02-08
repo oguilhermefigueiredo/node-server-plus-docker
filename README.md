@@ -1,1 +1,1 @@
-# Node server + Docker + PostgreSQL
+# Node.js + Docker + PostgreSQL
