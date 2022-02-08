@@ -1,1 +1,1 @@
-# Node.js server builded with Docker and PostgreSQL
+# Node server + Docker + PostgreSQL
